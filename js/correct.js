@@ -9,5 +9,5 @@ while ((textNode = walk.nextNode())) {
     .replace(/EmmanuelMacron/gi, 'Manu')
     .replace(/M\. Macron/gi, 'Manu')
     .replace(/Président Macron/gi, 'Manu')
-    .replace(/Emmanuel et Brigitte Macron/gi, 'Manu et Brigitte')
+    .replace(/Emmanuel et Brigitte Macron/gi, 'Manu et Bribri')
 }
